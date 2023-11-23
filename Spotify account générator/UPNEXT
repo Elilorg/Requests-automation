@@ -1,0 +1,41 @@
+1. Implémenter le multiprocessing (vitesse +++)
+2. Rotating IP avec proxylist/proxyprovider ou (avec la 4G et (adb qui coupe et relance) ou (Kivy app qui recoit l'ordre (du programme) de recharger son IP))
+    a. MON PROJET
+    b. FAIRE MARCHER L'AUTRE PROJET
+3. Comprendre et faire des stats sur les erreurs. (fichier dédié ?)
+
+
+
+1. BUG HEADLESS
+
+
+
+
+1. Une fonction avec self.current_url pour verifier que c bien telechargé (prends du temps)
+
+
+
+
+
+
+4. Bugs du solver
+
+    b. 2eme probleme du solver : telecharge comme mp3 une valeur en html : 
+        #NON signalé depuis un certain temp##ELIMINE
+        viens avec cette erreur  : 
+            DEBUG:valider:Decoding failed. ffmpeg returned error code: 1
+        et celle ci : 
+            [mp3 @ 0x55591c1bb280] Failed to read frame size: Could not seek to 1164. \n  /tmp/25f61e5979144748971839e7a2b5331d_tmp.mp3: Invalid argument
+
+    c. probleme de comprehention de l'API. renvoie aussi  : 
+    #semble etre résolu en acceptant uniquement l'anglais encore quelques erreurs comme ca 
+        result2:
+        []
+        DEBUG:valider:Speech recognition API could not understand audio, try agains
+        
+    
+5. les cookies ne semblent pas avoir été effacés à temps, donc on arrive sur la vertion web de spotify ###A PRIORI REGLE## avec time.sleep()
+
+
+10. Adapter le système de log pour avoir les logs suivant les threads (ou par chunck?)
+ 

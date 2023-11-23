@@ -1,0 +1,142 @@
+[
+    {
+        "id": "1107590",
+        "prix": 3.99,
+        "nom": "Panier épicerie 🥚🧃",
+        "nom magazin": "LEA MARKET",
+        "adresse": "28 Bd de la Liberté, 93260 Les Lilas, France"
+    },
+    {
+        "id": "1127044",
+        "prix": 3.99,
+        "nom": "Panier surprise 🍗🍗",
+        "nom magazin": "Bob’s Chicken",
+        "adresse": "22 Bd de la Liberté, 93260 Les Lilas, France"
+    },
+    {
+        "id": "931387",
+        "prix": 3.99,
+        "nom": "",
+        "nom magazin": "Panier des Lilas",
+        "adresse": "122 Rue de Paris, 93260 Les Lilas, France"
+    },
+    {
+        "id": "350800",
+        "prix": 3.99,
+        "nom": "",
+        "nom magazin": "Boulangerie Gagarine ",
+        "adresse": "9 Rue Paul Doumer, 93260 Romainville, France"
+    },
+    {
+        "id": "35480",
+        "prix": 3.99,
+        "nom": "Panier mixte",
+        "nom magazin": "Naturalia - Les Lilas",
+        "adresse": "90 Rue de Paris, 93260 Les Lilas, France"
+    },
+    {
+        "id": "33385",
+        "prix": 3.99,
+        "nom": "",
+        "nom magazin": "Casino Supermarché - Les Lilas",
+        "adresse": "Rue de Paris, Rue Francine Fromond, 93260 Les Lilas, France"
+    },
+    {
+        "id": "788824",
+        "prix": 3.99,
+        "nom": "Panier 12€",
+        "nom magazin": "Coccimarket - Les Lilas",
+        "adresse": "71 Rue de Paris, 93260 Les Lilas, France"
+    },
+    {
+        "id": "36566",
+        "prix": 3.99,
+        "nom": "Panier classique 3,99 €",
+        "nom magazin": "Carrefour Market - Le Pré-Saint-Gervais",
+        "adresse": "5 Avenue Faidherbe, 93310 Le Pré-Saint-Gervais, France"
+    },
+    {
+        "id": "1064095",
+        "prix": 29.99,
+        "nom": "Panier Vins",
+        "nom magazin": "Getir - Bagnolet, Parc Josette",
+        "adresse": "149 Av. Gambetta, 93170 Bagnolet, France"
+    },
+    {
+        "id": "978758",
+        "prix": 6.99,
+        "nom": "Panier Mixte",
+        "nom magazin": "Getir - Bagnolet, Parc Josette",
+        "adresse": "149 Av. Gambetta, 93170 Bagnolet, France"
+    },
+    {
+        "id": "1016352",
+        "prix": 3.99,
+        "nom": "Panier Mixte",
+        "nom magazin": "Coccinelle Supermarché - Romainville",
+        "adresse": "13 Pl. du 19 Mars 1962, 93230 Romainville, France"
+    },
+    {
+        "id": "615281",
+        "prix": 3.99,
+        "nom": "Panier surprise",
+        "nom magazin": "Naba Traiteur",
+        "adresse": "3 Pl. du 19 Mars 1962, 93230 Romainville, France"
+    },
+    {
+        "id": "520175",
+        "prix": 4.99,
+        "nom": "Panier Surprise Plus",
+        "nom magazin": "Steph’ruits",
+        "adresse": "120 Av. Gambetta, 93170 Bagnolet, France"
+    },
+    {
+        "id": "931759",
+        "prix": 3.99,
+        "nom": "Panier surprise ",
+        "nom magazin": "Boulangerie Guyot",
+        "adresse": "32 Rue Méhul, 93500 Pantin, France"
+    },
+    {
+        "id": "987011",
+        "prix": 12.0,
+        "nom": "Panier bières 12 x 33cl",
+        "nom magazin": "Appie ",
+        "adresse": "3 Rue Meissonnier, 93500 Pantin, France"
+    },
+    {
+        "id": "732502",
+        "prix": 11.0,
+        "nom": "Cidre et/ou poiré Appie (12 bouteilles 33cl)",
+        "nom magazin": "Appie ",
+        "adresse": "3 Rue Meissonnier, 93500 Pantin, France"
+    },
+    {
+        "id": "728453",
+        "prix": 7.6,
+        "nom": "Limonade Mona 12 bouteilles 33cl",
+        "nom magazin": "Appie ",
+        "adresse": "3 Rue Meissonnier, 93500 Pantin, France"
+    },
+    {
+        "id": "1021987",
+        "prix": 3.99,
+        "nom": "Panier soir 🍕",
+        "nom magazin": "Pizza Hut - Romainville ",
+        "adresse": "22 Av. Paul Vaillant Couturier, 93230 Romainville, France"
+    },
+    {
+        "id": "865421",
+        "prix": 3.99,
+        "nom": "Panier Boulangerie ",
+        "nom magazin": "Au Bonheur Des Trois",
+        "adresse": "13t Av. Jean Jaurès, 93310 Le Pré-Saint-Gervais, France"
+    },
+    {
+        "id": "28249",
+        "prix": 3.9,
+        "nom": "",
+        "nom magazin": "Aux délices des Lilas",
+        "adresse": "2 Avenue de la Porte des Lilas, 75020 Paris, France"
+    }
+]

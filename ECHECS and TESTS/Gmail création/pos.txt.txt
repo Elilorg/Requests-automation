@@ -1,0 +1,28 @@
+position des éléments sur la connection page de google full screen 
+
+X:  560 Y:  395 RGB: ( 95,  99, 104)  PRENOM
+Press Ctrl-C to quit.
+X:  795 Y:  395 RGB: ( 95,  99, 145)  NOM
+Press Ctrl-C to quit.
+X:  561 Y:  470 RGB: (125, 102, 104)  USERNAME
+Press Ctrl-C to quit.
+X:  573 Y:  630 RGB: (255, 255, 255)  MDP
+Press Ctrl-C to quit.
+X:  798 Y:  628 RGB: (255, 255, 255)  MDP CONFIRM
+Press Ctrl-C to quit.
+X:  924 Y:  833 RGB: ( 27, 102, 201)  NEXT
+
+position des éléments sur la page 2 
+
+X:  592 Y:  590 RGB: (255, 255, 255) EMAIL RECUP  
+Press Ctrl-C to quit.
+X:  564 Y:  686 RGB: (255, 255, 255) DAY NAISSANCE
+Press Ctrl-C to quit.
+X:  808 Y:  687 RGB: (158, 158, 158) MONTH NAISSANCE
+Press Ctrl-C to quit.
+X:  883 Y:  690 RGB: (167, 224, 255) YEAR NAISSANCE
+Press Ctrl-C to quit.
+X:  626 Y:  791 RGB: (255, 255, 255) GENRE
+Press Ctrl-C to quit.
+X:  905 Y:  950 RGB: ( 27, 102, 201) NEXT
+Press Ctrl-C to quit.

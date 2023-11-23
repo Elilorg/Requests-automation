@@ -1,0 +1,21 @@
+{
+	"GET": {
+		"scheme": "https",
+		"host": "yopmail.com",
+		"filename": "/fr/inbox",
+		"query": {
+			"login": "patrik",
+			"p": "1",
+			"d": "",
+			"ctrl": "",
+			"yp": "OAwVkZmHkAQH3ZGtjAwH0Awt",
+			"yj": "OAQN5ZmD1ZwxlZwH3ZGN2ZGt",
+			"v": "5.6",
+			"r_c": "",
+			"id": ""
+		},
+		"remote": {
+			"Adresse": "87.98.250.141:443"
+		}
+	}
+}

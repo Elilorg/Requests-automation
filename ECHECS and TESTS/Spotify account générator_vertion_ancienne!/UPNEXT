@@ -1,0 +1,16 @@
+1. Une fonction avec self.current_url pour verifier que c bien telechargé (prends du temps)
+2. Régler le probleme de la boucle de recherche des listes
+3. Régler le probleme du solveur qui parfois ne prends pas assez de temps pour voir que la case est cochée
+
+
+4. Implémenter le multiprocessing (vitesse +++)
+
+5. Rotating IP avec proxylist/proxyprovider ou (avec la 4G et (adb qui coupe et relance) ou (Kivy app qui recoit l'ordre (du programme) de recharger son IP))
+6. Mettre dans un venv avec la vertion modifie du solveur et toute les vertions.
+7. Implémenter les expected conditions à certains endroits(cookies) ainsi que le check url pour des temps de chargement des pages
+
+
+with open("database.json") as f : 
+    dat = json.load(f)
+
+len(dat)

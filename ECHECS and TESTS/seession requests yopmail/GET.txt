@@ -1,0 +1,35 @@
+REQUESTS HEADERS 
+
+
+GET /fr/ HTTP/1.1
+Host: yopmail.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.google.com/
+DNT: 1
+Connection: keep-alive
+Cookie: yc=EZmRkZmDlAQRlZmxmZQZ1ZwZ; ycons=IA6QOw7BmdSQe86FGdyiH9AXK9eU/+F7IGylRA/FLfeIU3ehvj1fdPhNNSWz1tvl; compte=patrik:jeanyohann:alicebernouilli:alicenernouilli:mihaita; ywm=patrik; yses=RbyPVrZl2WYMyhmFHVeZMeI17uMEc9oEe8d/tiB7CaFn1iAHtR3iQQzdlCJOH2yN; ytime=11:40
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: cross-site
+Sec-Fetch-User: ?1
+If-Modified-Since: Sat, 22 Oct 2022 09:41:10 GMT
+If-None-Match: 1008098492-00420001-SAmNmZmHmBQZ3AwLkAGHlZGZ
+
+
+RESPONSE HEADERS
+
+HTTP/1.1 304 Not Modified
+Content-Length: 0
+Content-Type: text/html; charset=UTF-8
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Etag: 1008098492-00420001-SAmNmZmHmBQZ3AwLkAGHlZGZ
+Set-Cookie: yc=EZmRkZmDlAQRlZmxmZQZ1ZwZ; Domain=.yopmail.com; Max-Age=31104000; Path=/
+Set-Cookie: yses=RbyPVrZl2WYMyhmFHVeZMeI17uMEc9oEe8d/tiB7CaFn1iAHtR3iQQzdlCJOH2yN; Domain=.yopmail.com; Path=/
+X-Content-Type-Options: nosniff
+X-Frame-Options: sameorigin
+Date: Sat, 22 Oct 2022 09:41:14 GMT
+

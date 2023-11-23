@@ -1,0 +1,247 @@
+{
+    "item": {
+        "item_id": "1107590",
+        "sales_taxes": [
+            {
+                "tax_description": "VAT",
+                "tax_percentage": 5.5
+            }
+        ],
+        "tax_amount": {
+            "code": "EUR",
+            "minor_units": 21,
+            "decimals": 2
+        },
+        "price_excluding_taxes": {
+            "code": "EUR",
+            "minor_units": 378,
+            "decimals": 2
+        },
+        "price_including_taxes": {
+            "code": "EUR",
+            "minor_units": 399,
+            "decimals": 2
+        },
+        "value_excluding_taxes": {
+            "code": "EUR",
+            "minor_units": 1137,
+            "decimals": 2
+        },
+        "value_including_taxes": {
+            "code": "EUR",
+            "minor_units": 1200,
+            "decimals": 2
+        },
+        "taxation_policy": "PRICE_INCLUDES_TAXES",
+        "show_sales_taxes": false,
+        "cover_picture": {
+            "picture_id": "1000726",
+            "current_url": "https://images.tgtg.ninja/item/cover/a0ebcd20-34c5-4c24-9bd1-460b6e77074d.jpg",
+            "is_automatically_created": false
+        },
+        "logo_picture": {
+            "picture_id": "1000706",
+            "current_url": "https://images.tgtg.ninja/store/5fd2f254-fe64-4ce4-86ce-4b0ed4324bf6.jpg",
+            "is_automatically_created": false
+        },
+        "name": "Panier \u00e9picerie \ud83e\udd5a\ud83e\uddc3",
+        "description": "Sauvez un panier surprise compos\u00e9 d'une s\u00e9lection d'articles d'\u00e9picerie.",
+        "food_handling_instructions": "",
+        "can_user_supply_packaging": false,
+        "packaging_option": "BAG_ALLOWED",
+        "collection_info": "",
+        "diet_categories": [],
+        "item_category": "GROCERIES",
+        "buffet": false,
+        "badges": [
+            {
+                "badge_type": "SERVICE_RATING_SCORE",
+                "rating_group": "LOVED",
+                "percentage": 100,
+                "user_count": 2,
+                "month_count": 0
+            },
+            {
+                "badge_type": "OVERALL_RATING_TRUST_SCORE",
+                "rating_group": "LOVED",
+                "percentage": 100,
+                "user_count": 2,
+                "month_count": 0
+            }
+        ],
+        "positive_rating_reasons": [
+            "POSITIVE_FEEDBACK_GREAT_VALUE",
+            "POSITIVE_FEEDBACK_GREAT_QUANTITY",
+            "POSITIVE_FEEDBACK_FRIENDLY_STAFF"
+        ],
+        "allergens_info": {
+            "shown_on_checkout": false
+        },
+        "favorite_count": 0
+    },
+    "store": {
+        "store_id": "991410",
+        "store_name": "LEA MARKET",
+        "branch": "",
+        "description": "",
+        "tax_identifier": "FR27899824288",
+        "website": "",
+        "store_location": {
+            "address": {
+                "country": {
+                    "iso_code": "FR",
+                    "name": "France"
+                },
+                "address_line": "28 Bd de la Libert\u00e9, 93260 Les Lilas, France",
+                "city": "",
+                "postal_code": ""
+            },
+            "location": {
+                "longitude": 2.4182308,
+                "latitude": 48.8798451
+            }
+        },
+        "logo_picture": {
+            "picture_id": "1000706",
+            "current_url": "https://images.tgtg.ninja/store/5fd2f254-fe64-4ce4-86ce-4b0ed4324bf6.jpg",
+            "is_automatically_created": false
+        },
+        "store_time_zone": "Europe/Paris",
+        "hidden": false,
+        "favorite_count": 0,
+        "items": [
+            {
+                "item": {
+                    "item_id": "1107590",
+                    "sales_taxes": [
+                        {
+                            "tax_description": "VAT",
+                            "tax_percentage": 5.5
+                        }
+                    ],
+                    "tax_amount": {
+                        "code": "EUR",
+                        "minor_units": 21,
+                        "decimals": 2
+                    },
+                    "price_excluding_taxes": {
+                        "code": "EUR",
+                        "minor_units": 378,
+                        "decimals": 2
+                    },
+                    "price_including_taxes": {
+                        "code": "EUR",
+                        "minor_units": 399,
+                        "decimals": 2
+                    },
+                    "value_excluding_taxes": {
+                        "code": "EUR",
+                        "minor_units": 1137,
+                        "decimals": 2
+                    },
+                    "value_including_taxes": {
+                        "code": "EUR",
+                        "minor_units": 1200,
+                        "decimals": 2
+                    },
+                    "taxation_policy": "PRICE_INCLUDES_TAXES",
+                    "show_sales_taxes": false,
+                    "cover_picture": {
+                        "picture_id": "1000726",
+                        "current_url": "https://images.tgtg.ninja/item/cover/a0ebcd20-34c5-4c24-9bd1-460b6e77074d.jpg",
+                        "is_automatically_created": false
+                    },
+                    "logo_picture": {
+                        "picture_id": "1000706",
+                        "current_url": "https://images.tgtg.ninja/store/5fd2f254-fe64-4ce4-86ce-4b0ed4324bf6.jpg",
+                        "is_automatically_created": false
+                    },
+                    "name": "Panier \u00e9picerie \ud83e\udd5a\ud83e\uddc3",
+                    "description": "Sauvez un panier surprise compos\u00e9 d'une s\u00e9lection d'articles d'\u00e9picerie.",
+                    "food_handling_instructions": "",
+                    "can_user_supply_packaging": false,
+                    "packaging_option": "BAG_ALLOWED",
+                    "collection_info": "",
+                    "diet_categories": [],
+                    "item_category": "GROCERIES",
+                    "buffet": false,
+                    "badges": [
+                        {
+                            "badge_type": "SERVICE_RATING_SCORE",
+                            "rating_group": "LOVED",
+                            "percentage": 100,
+                            "user_count": 2,
+                            "month_count": 0
+                        },
+                        {
+                            "badge_type": "OVERALL_RATING_TRUST_SCORE",
+                            "rating_group": "LOVED",
+                            "percentage": 100,
+                            "user_count": 2,
+                            "month_count": 0
+                        }
+                    ],
+                    "positive_rating_reasons": [
+                        "POSITIVE_FEEDBACK_GREAT_VALUE",
+                        "POSITIVE_FEEDBACK_GREAT_QUANTITY",
+                        "POSITIVE_FEEDBACK_FRIENDLY_STAFF"
+                    ],
+                    "favorite_count": 0
+                },
+                "display_name": "LEA MARKET (Panier \u00e9picerie \ud83e\udd5a\ud83e\uddc3)",
+                "pickup_location": {
+                    "address": {
+                        "country": {
+                            "iso_code": "FR",
+                            "name": "France"
+                        },
+                        "address_line": "28 Bd de la Libert\u00e9, 93260 Les Lilas, France",
+                        "city": "",
+                        "postal_code": ""
+                    },
+                    "location": {
+                        "longitude": 2.4182308,
+                        "latitude": 48.8798451
+                    }
+                },
+                "items_available": 0,
+                "distance": 0.0,
+                "favorite": false,
+                "in_sales_window": false,
+                "new_item": true,
+                "item_type": "MAGIC_BAG"
+            }
+        ],
+        "we_care": false,
+        "distance": 0.0,
+        "cover_picture": {
+            "picture_id": "1000726",
+            "current_url": "https://images.tgtg.ninja/item/cover/a0ebcd20-34c5-4c24-9bd1-460b6e77074d.jpg",
+            "is_automatically_created": false
+        },
+        "is_manufacturer": false
+    },
+    "display_name": "LEA MARKET (Panier \u00e9picerie \ud83e\udd5a\ud83e\uddc3)",
+    "pickup_location": {
+        "address": {
+            "country": {
+                "iso_code": "FR",
+                "name": "France"
+            },
+            "address_line": "28 Bd de la Libert\u00e9, 93260 Les Lilas, France",
+            "city": "",
+            "postal_code": ""
+        },
+        "location": {
+            "longitude": 2.4182308,
+            "latitude": 48.8798451
+        }
+    },
+    "items_available": 0,
+    "distance": 0.0,
+    "favorite": false,
+    "in_sales_window": false,
+    "new_item": true,
+    "sharing_url": "https://share.toogoodtogo.com/download?locale=en-US",
+    "item_type": "MAGIC_BAG"
+}

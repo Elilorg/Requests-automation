@@ -1,0 +1,22 @@
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+
+# Créer une instance du navigateur web (par exemple, Chrome)
+browser = webdriver.Chrome()
+
+# Ouvrir la page d'inscription OpenAI dans le navigateur
+browser.get('https://openai.com/sign-up/')
+
+# Trouver les éléments du formulaire d'inscription en utilisant la syntaxe By
+username_input = browser.find_element(By.ID, 'username')
+email_input = browser.find_element(By.ID, 'email')
+password_input = browser.find_element(By.ID, 'password')
+
+# Saisir les détails de l'utilisateur dans les champs de saisie
+username_input.send_keys('mon_nom_dutilisateur')
+email_input.send_keys('mon_adresse@email.com')
+password_input.send_keys('mon_mot_de_passe')
+
+# Soumettre le formulaire d'inscription en cliquant sur le bouton "Sign Up"
+signup_button = browser.find_element(By.ID, 'sign-up-button')
+signup_button.click()
